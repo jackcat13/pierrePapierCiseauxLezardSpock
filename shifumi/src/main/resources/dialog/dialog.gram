@@ -1,0 +1,10 @@
+#JSGF V1.0;
+
+grammar dialog;
+
+public <shifumi_command> =  lizard    |
+                            spock     |
+                            paper     |
+                            scissors  |
+                            stone     |
+                            exit      ;
